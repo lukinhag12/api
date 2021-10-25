@@ -1,2 +1,2 @@
-# projeto_api
+# api
 Projeto Portal de Peladas
